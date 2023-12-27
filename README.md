@@ -1,27 +1,48 @@
-# BookListAngularApp
+# Car Listing Angular App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0.
+Welcome to the Car Listing Angular App! This project demonstrates how to build a car listing application using Angular, NgRx, RxJS, and Tailwind CSS.
 
-## Development server
+## Table of Contents
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- [Features](#features)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Tailwind CSS Styling](#tailwind-css-styling)
 
-## Code scaffolding
+## Features
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Load a list of cars from an API.
+- Display the list of cars in a user-friendly interface.
+- View car details by clicking on a car card.
+- Styled with Tailwind CSS for a modern and minimalistic design.
 
-## Build
+## Prerequisites
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Before you begin, ensure you have met the following requirements:
 
-## Running unit tests
+- [Node.js](https://nodejs.org/) installed.
+- [Angular CLI](https://angular.io/cli) installed globally.
+- Familiarity with Angular, NgRx, RxJS, and Tailwind CSS.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Installation
 
-## Running end-to-end tests
+1. Clone the repository:
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+   ```bash
+   git clone https://github.com/muratcanpayir/car-list-app-angular.git
+2. Open the project in your code editor.
+3. Install project dependencies:
+   ```bash
+   npm install
+## Usage
+1. Start the development server:
+   ```bash
+   ng serve
+2. Open your browser and visit:
+   ```bash
+   http://localhost:4200/
+## Tailwind CSS Styling
 
-## Further help
+- The application is styled with Tailwind CSS, providing a modern and minimalistic design.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
