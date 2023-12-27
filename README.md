@@ -1,6 +1,6 @@
 # Car Listing Angular App
 
-Welcome to the Car Listing Angular App! This project demonstrates how to build a car listing application using Angular, NgRx, RxJS, and Tailwind CSS.
+Welcome to the Car Listing Angular App! This project demonstrates how to build a car listing application using Angular and Tailwind CSS.
 
 ## Table of Contents
 
@@ -23,7 +23,7 @@ Before you begin, ensure you have met the following requirements:
 
 - [Node.js](https://nodejs.org/) installed.
 - [Angular CLI](https://angular.io/cli) installed globally.
-- Familiarity with Angular, NgRx, RxJS, and Tailwind CSS.
+- Familiarity with Angular and Tailwind CSS.
 
 ## Installation
 
